@@ -4,7 +4,7 @@ Binary image classifiers into "object" or "background" using classical methods s
 This was submitted as a project for CSE489: Machine Vision at Ain Shams University, Faculty of Engineering.
 
 ## Sample Input & Results
-<p float="left">
+<p align="middle">
   <img src="/TestingImageswithResults/9.jpg" alt="Original" width="320"/>
   <img src="/TestingImageswithResults/9_1nn.jpg" alt="NN" width="320"/>
   <img src="/TestingImageswithResults/9_5nn.jpg" alt="5NN" width="320"/>
