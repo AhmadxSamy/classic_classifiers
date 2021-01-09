@@ -4,9 +4,9 @@ Binary image classifiers into "object" or "background" using classical methods s
 This was submitted as a project for CSE489: Machine Vision at Ain Shams University, Faculty of Engineering.
 
 ## Sample Input & Results
-![Original](/TestingImageswithResults/9.jpg=320x)
-![NN](/TestingImageswithResults/9_1nn.jpg=320x)
-![5NN](/TestingImageswithResults/9_5nn.jpg=320x)
-![Bayes](/TestingImageswithResults/9_bayes.jpg=320x)
-![Cmeans](/TestingImageswithResults/9_cm_iter_20.jpg=320x)
-![SVM](/TestingImageswithResults/9_svm.jpeg=320x)
+<img src="/TestingImageswithResults/9.jpg" alt="Original" width="320"/>
+<img src="/TestingImageswithResults/9_1nn.jpg" alt="NN" width="320"/>
+<img src="/TestingImageswithResults/9_5nn.jpg" alt="5NN" width="320"/>
+<img src="/TestingImageswithResults/9_bayes.jpg" alt="Bayes" width="320"/>
+<img src="/TestingImageswithResults/9_cm_iter_20.jpg" alt="Cmeans" width="320"/>
+<img src="/TestingImageswithResults/9_svm.jpeg" alt="SVM" width="320"/>
