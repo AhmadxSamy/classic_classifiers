@@ -8,5 +8,5 @@ This was submitted as project for Machine Vision course at Ain Shams University.
 ![NN](/TestingImageswithResults/9_1nn.jpg)
 ![5NN](/TestingImageswithResults/9_5nn.jpg)
 ![Bayes](/TestingImageswithResults/9_bayes.jpg)
-![Cmeans](/TestingImageswithResults/9_iter_20.jpg)
+![Cmeans](/TestingImageswithResults/9_cm_iter_20.jpg)
 ![SVM](/TestingImageswithResults/9_svm.jpeg)
