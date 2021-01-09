@@ -1,7 +1,7 @@
 # Classical Image Classifiers
 Binary image classifiers into "object" or "background" using classical methods such as K-Nearest Neighbours, C-means clustering, Bayes &amp; Support Vector Machine (SVM). 
 
-This was submitted as project for Machine Vision course at Ain Shams University.
+This was submitted as a project for CSE489: Machine Vision at Ain Shams University, Faculty of Engineering.
 
 ## Sample Input & Results
 ![Original](/TestingImageswithResults/9.jpg)
